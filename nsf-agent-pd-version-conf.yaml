@@ -1,0 +1,100 @@
+nsf: 
+   agent: 
+   -  version: 3.1.9.2.1
+      content: 
+         nsf-global-config: 
+            version: e63e7bb949ed6bb9d0809f636d79ea4252035a3f
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-global-config-e63e7bb949ed6bb9d0809f636d79ea4252035a3f.jar
+            md5: 240639157dfc40c060774e5bda619cbd
+         nsf-turbine-atom: 
+            version: 1.0.7
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-turbine-atom-1.0.7.jar
+            md5: 9586a9fd381fd6fa8f8cd1995c4e6513
+         nsf-agent-aop: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-aop-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 484f2b79b1145d42cf23923e0f7ec32c
+         logback-classic: 
+            version: 1.1.11
+            download: http://console.test251-qingzhou.com/download/nsf/logback-classic-1.1.11.jar
+            md5: 8064835579ddb2c86ae26b447b0c5f76
+         nsf-agent-nacos: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-nacos-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 08a7a5d43c7c64375c693d0cb948c020
+         nsf-proto-agent: 
+            version: e63e7bb949ed6bb9d0809f636d79ea4252035a3f
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-proto-agent-e63e7bb949ed6bb9d0809f636d79ea4252035a3f.jar
+            md5: 06f52735469c8ccaef95584323408d64
+         nsf-agent-loader: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-loader-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 8c4cacfc8b7cf7e38958a047f4438192
+         nsf-agent-dubbo: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-dubbo-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 5b0e3b1463b20b945519f5f40e71c8e1
+         nsf-agent-core: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-core-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 38810ff69adb484c70a782f4c315bd44
+         nsf-agent-transformer: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-transformer-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 2fc10ff9cb35442978a8af21bdc66dc0
+         nsf-turbine-client-boot2: 
+            version: 1.0.7
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-turbine-client-boot2-1.0.7.jar
+            md5: ab6d09a404b2ddb78bc9376ae5c755c1
+         nsf-agent-grpc: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-grpc-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 184924e85cd4a6abcb4cfef3591f7a55
+         nsf-agent-configuration: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-configuration-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: f919409aee2ffbf959f442089d272a58
+         nsf-agent-eureka: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-eureka-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 5f994ef71c9279cdefde21fd5a86301b
+         nsf-turbine-client: 
+            version: 1.0.7
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-turbine-client-1.0.7.jar
+            md5: 0b41185b4452a5bbd44e8b511fa107fa
+         logback-core: 
+            version: 1.1.11
+            download: http://console.test251-qingzhou.com/download/nsf/logback-core-1.1.11.jar
+            md5: cc7a8deacd26b0aa2668779ce2721c0f
+         arthas: 
+            version: 3.4.5
+            download: http://console.test251-qingzhou.com/download/nsf/arthas-packaging-3.4.5-bin.zip
+            md5: 668799dc375874ec118e7c8206bf49ad
+         nsf-agent-premain: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-premain-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 490decad9003e9c4465d051539c16eb3
+         nsf-turbine-common: 
+            version: 1.0.7
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-turbine-common-1.0.7.jar
+            md5: 35a16cb3c10577f8a32af1d5090c9939
+         nsf-agent-transformer-sdk: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-transformer-sdk-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: b84a18686bcc6134561a9e46739b4e02
+         nsf-agent-log: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-log-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: ab4540fd3964bc69f1d31fa1e6a0004a
+         nsf-agent-apollo: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-apollo-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: 0e0f55ba119a4d875f57c16efee513a3
+         nsf-turbine-client-boot1: 
+            version: 1.0.7
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-turbine-client-boot1-1.0.7.jar
+            md5: a5bc31433df92bc59a209de5867c6741
+         nsf-agent-xds: 
+            version: 11fdaaca1625016aa8de971e63883c55dcc3c2d8
+            download: http://console.test251-qingzhou.com/download/nsf/nsf-agent-xds-11fdaaca1625016aa8de971e63883c55dcc3c2d8.jar
+            md5: f69111c7bbb92e6c21daf632b0b53647

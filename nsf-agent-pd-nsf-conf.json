@@ -1,0 +1,52 @@
+{
+  "RequestId": "063c254d-f212-4976-9e53-2aa9b75a25b5",
+  "Code": "success",
+  "Message": "Success get boot environment config",
+  "Config": {
+    "Registry": {
+      "enable": true,
+      "address": "http://nsf-registry-0.test251-qingzhou.com/eureka/,http://nsf-registry-1.test251-qingzhou.com/eureka/",
+      "type": "eureka"
+    },
+    "Authority": {
+      "enable": true,
+      "address": "http://platform-service-auth.test251-qingzhou.com"
+    },
+    "Apollo": {
+      "enable": true,
+      "address": "http://nsf-config-service.test251-qingzhou.com",
+      "env": "DEV",
+      "namespaces": {
+        "Private": [],
+        "Public": [
+          "properties1",
+          "properties2",
+          "aa",
+          "test11",
+          "tetet",
+          "atat",
+          "atat1",
+          "discovery-mapping",
+          "213"
+        ]
+      }
+    },
+    "Grpc": {
+      "enable": true,
+      "port": "8980"
+    },
+    "Tunnel": {
+      "address": "nsf-tunnel-server.test251-qingzhou.com"
+    },
+    "Alert": {
+      "enable": false
+    },
+    "IstioTurbine": {
+      "address": "http://nsf-turbine.test251-qingzhou.com"
+    },
+    "trafficMark": {
+      "trafficMarkHeader": "x-nsf-mark",
+      "sidecarTrafficMarkKey": "nsf.skiff.netease.com/mark"
+    }
+  }
+}
